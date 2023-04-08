@@ -1,0 +1,15 @@
+.btn-shape{
+    text-decoration: none;
+    width: fit-content;
+    height: fit-content;
+}
+.d-flex{
+    display: flex;
+}
+.d-grid{
+    display: grid;
+}
+.w-70{
+    width: 70%;
+    margin: 35px auto;
+}
